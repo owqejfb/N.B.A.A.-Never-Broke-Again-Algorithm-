@@ -1,1 +1,10 @@
 
+First Update: v.0.1 -> v.0.3 (skipped v.0.2 because midway through it I started implementing new changes)
+
+-data loading is now through google drive instead of locally. feel free to change it if you'd like but google drive is faster
+
+-simplified ExtractData() by collecting data everytime that matchup was Home vs. Away instead of 50/50 between it and Away @ Home
+
+-put the data structures into a function to be able to reset them at the start of every season.
+
+-included the file used to create the dataset
