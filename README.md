@@ -18,3 +18,5 @@ To do
 -v0.4 will include a version that predicts the money line instead of win/loss. if its not too big of an update it will become 0.3.1
 
 -v0.5 will include a version that predicts money line and winner after the stats of the first, second, third quarters to do live betting. This one should shuffle the games. This one is finding live trends in a game, not live trends over a season
+
+-include some form of unit test 
