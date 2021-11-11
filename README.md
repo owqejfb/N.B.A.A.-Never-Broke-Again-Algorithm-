@@ -19,4 +19,6 @@ To do
 
 -v0.5 will include a version that predicts money line and winner after the stats of the first, second, third quarters to do live betting. This one should shuffle the games. This one is finding live trends in a game, not live trends over a season
 
--include some form of unit test 
+-include some form of unit test
+
+-credit the paper that i based mine off from
