@@ -22,3 +22,5 @@ To do
 -include some form of unit test
 
 -credit the paper that i based mine off from
+
+-made a mistake day 3 with the live betting. need to automate that part to prevent it from happening again
