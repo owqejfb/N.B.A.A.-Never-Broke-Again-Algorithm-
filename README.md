@@ -24,3 +24,5 @@ To do
 -credit the paper that i based mine off from
 
 -made a mistake day 3 with the live betting. need to automate that part to prevent it from happening again
+
+-make a logo of youngboy for the repo (this is just me having fun)
