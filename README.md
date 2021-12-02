@@ -30,3 +30,5 @@ To do
 -make last layer have sigmoid. (i think it may already have it as the default but i think relu could be default. specifying removes ambiguity)
 
 -combine HT PD and AT PD into one variable to see if it improves the model. hoping that by removing a dimension accuracy improves
+
+-model.fit() has shuffle on by default. this could be hindering my model because my data might give more insight being read sequentialy
