@@ -29,6 +29,8 @@ To do
 
 -make last layer have sigmoid. (i think it may already have it as the default but i think relu could be default. specifying removes ambiguity)
 
--combine HT PD and AT PD into one variable to see if it improves the model. hoping that by removing a dimension accuracy improves
+~~-combine HT PD and AT PD into one variable to see if it improves the model. hoping that by removing a dimension accuracy improves~~.Dimensionality not always a curse. Change did nothing
 
 -model.fit() has shuffle on by default. this could be hindering my model because my data might give more insight being read sequentially
+
+-Training the model on colab has better accuracy than my local machine by 6%. No idea what it could be. Could be the seed or the fact that colab trains off a csv and local off a dataframe. Currently my only ideas but need to figure this out
