@@ -34,3 +34,5 @@ To do
 -model.fit() has shuffle on by default. this could be hindering my model because my data might give more insight being read sequentially
 
 -Training the model on colab has better accuracy than my local machine by 6%. No idea what it could be. Could be the seed or the fact that colab trains off a csv and local off a dataframe. Currently my only ideas but need to figure this out
+
+-wonder if i would have better success rates instead making models for every single team. Would allow me to input games sequentially (use SGD instead), and change one parameter from 1-30 to 1-0 (is the team away or home)
